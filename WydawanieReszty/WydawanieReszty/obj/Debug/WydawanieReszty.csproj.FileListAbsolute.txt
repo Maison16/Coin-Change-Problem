@@ -1,0 +1,7 @@
+C:\Users\mateu\source\repos\WydawanieReszty\WydawanieReszty\bin\Debug\WydawanieReszty.exe.config
+C:\Users\mateu\source\repos\WydawanieReszty\WydawanieReszty\bin\Debug\WydawanieReszty.exe
+C:\Users\mateu\source\repos\WydawanieReszty\WydawanieReszty\bin\Debug\WydawanieReszty.pdb
+C:\Users\mateu\source\repos\WydawanieReszty\WydawanieReszty\obj\Debug\WydawanieReszty.csproj.AssemblyReference.cache
+C:\Users\mateu\source\repos\WydawanieReszty\WydawanieReszty\obj\Debug\WydawanieReszty.csproj.CoreCompileInputs.cache
+C:\Users\mateu\source\repos\WydawanieReszty\WydawanieReszty\obj\Debug\WydawanieReszty.exe
+C:\Users\mateu\source\repos\WydawanieReszty\WydawanieReszty\obj\Debug\WydawanieReszty.pdb

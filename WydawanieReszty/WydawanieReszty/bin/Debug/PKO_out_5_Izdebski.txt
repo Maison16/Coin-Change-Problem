@@ -1,0 +1,2 @@
+liczba monet: 5
+Użyte monety:  2  2  1 
